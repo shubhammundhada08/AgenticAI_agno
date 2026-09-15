@@ -1,0 +1,19 @@
+# Environment variables and sensitive keys
+.env
+
+# Database file (stores local database state)
+*.db
+agno.db
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+
+# IDE configurations
+.vscode/
+.idea/
